@@ -19,7 +19,7 @@ The project will be implemented three times. Python, Julia, and R. Just for fun.
 ## TO DO
 
 - Install Conda
-- Install Tensorflow (i respect Zuck more than Pachai)
+- Install PyTorch (i respect Zuck more than Pachai)
 - Create HTMX Front End
 - Collect regular handwriting data
 - Single character recognition
