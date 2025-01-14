@@ -18,7 +18,11 @@ The project will be implemented three times. Python, Julia, and R. Just for fun.
 
 ## TO DO
 
-- Install PyTorch (i respect Zuck more than Pachai)
+- find or create my own handwriting dataset
+- normalize the images
+- make images black and white
+- increase dataset from dataset
+
 - Create HTMX Front End
 - Collect regular handwriting data
 - Single character recognition
