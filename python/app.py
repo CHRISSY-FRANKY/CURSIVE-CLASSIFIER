@@ -12,6 +12,7 @@ def index():
     <br>
     <h2>Designed by Chrissy Franky</h2>
     <h3>Powered by CONDA</h3>
+    <h3>Powered by PyTorch</h3>
     """
 
 if __name__ == "__main__":
