@@ -12,9 +12,9 @@ In the Fall of 2023, I enrolled in Data Science courses at UCF. After learning t
 
 On January 7, 2025, Jensen Huang unveiled Project DIGITS. A personal AI supercomputer that can fit on your desk. I want one, I'll probably buy it with crypto, once I make up my mind. Now is the time to take machine learning seriously.
 
-## Languages
+## Dataset
 
-I was originally planning on implementing the project three times, just for fun: Python, Julia, and R. But that's silly and recruiters are only interested in the first one.  
+Here's the *[link](https://drive.google.com/drive/folders/1LJCjCi3D27oXWKkw0a_j_bgKk8fFFF0p?usp=drive_link)* to the data set of alphabetical characters!
 
 ## TO DO
 
